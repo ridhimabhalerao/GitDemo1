@@ -1,1 +1,3 @@
 This is git session
+
+change1 in file 3
