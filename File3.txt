@@ -1,3 +1,5 @@
 This is git session
 
 change1 in file 3
+
+Making changes on remote -- vice versa
